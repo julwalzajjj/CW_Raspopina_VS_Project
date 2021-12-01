@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\VS_Proj\VS_Proj\bin\Debug\VS_Proj.exe.config
+C:\Users\user\source\repos\VS_Proj\VS_Proj\bin\Debug\VS_Proj.exe
+C:\Users\user\source\repos\VS_Proj\VS_Proj\bin\Debug\VS_Proj.pdb
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.csprojAssemblyReference.cache
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.Serial_Port.resources
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.Properties.Resources.resources
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.csproj.GenerateResource.cache
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.exe
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.pdb
+C:\Users\user\source\repos\VS_Proj\VS_Proj\obj\Debug\VS_Proj.Graphics_1_Form.resources
